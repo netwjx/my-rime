@@ -1,0 +1,5 @@
+patch:
+  style/color_scheme: mojave_dark
+  # style/inline_preedit: false
+  preset_color_schemes/mojave_dark/inline_preedit: false
+  
